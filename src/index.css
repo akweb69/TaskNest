@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap");
+
+.mainpage {
+  background-image: url("https://i.ibb.co.com/twcXbPxv/123755.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body {
+  max-width: 1550px;
+  margin: 0 auto;
+  overflow-x: hidden;
+  font-family: "Play", serif;
+}
