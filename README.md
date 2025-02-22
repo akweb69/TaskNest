@@ -3,11 +3,11 @@
 
 ## Overview
 
-This is the frontend part of the Task Management Application, where users can manage tasks through a clean and minimalistic user interface. The app allows users to add, edit, delete, reorder, and drag-and-drop tasks across three categories: To-Do, In Progress, and Done. The frontend is built with **React** and is fully responsive, supporting both desktop and mobile users. It communicates with the backend via API endpoints to persist data.
+##### This is the frontend part of the Task Management Application, where users can manage tasks through a clean and minimalistic user interface. The app allows users to add, edit, delete, reorder, and drag-and-drop tasks across three categories: To-Do, In Progress, and Done. The frontend is built with **React** and is fully responsive, supporting both desktop and mobile users. It communicates with the backend via API endpoints to persist data.
 
 ## Live Link
 
-You can access the live application at [**Live Link**](#).
+#### You can access the live application at [**Live Link**](#).
 
 ## Features
 
@@ -125,10 +125,17 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ```
 
-### Key Points:
-- The README file covers the basic project overview, features, technologies, and setup instructions.
-- It provides a clean structure for organizing components, services, and pages.
-- Authentication and real-time updates are explained.
-- Contributions and licensing guidelines are also included to ensure smooth collaboration.
+### Key Sections of the `README.md`:
 
+1. **Overview**: Describes the purpose of the app and the main functionality.
+2. **Live Link**: Placeholder for the live app link.
+3. **Features**: Key features of the app, including authentication, task management, and responsiveness.
+4. **Technologies Used**: A list of technologies used to build the frontend.
+5. **Installation**: Step-by-step instructions for setting up the project locally, including setting up Firebase and running the development server.
+6. **Folder Structure**: An overview of the project's directory structure.
+7. **Usage**: Instructions on how to use the app once it's set up.
+8. **Contributions**: A note encouraging contributions from others.
+9. **License**: Information about the project's license.
+
+This detailed `README.md` will help others understand how to set up, use, and contribute to your project. Let me know if you'd like to modify or add anything!
 ```
